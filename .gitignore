@@ -9,3 +9,6 @@ target
 .settings
 *.iml
 .DS_STORE
+
+# Sublime makes temp files like this.
+._*
